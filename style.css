@@ -729,6 +729,7 @@ p {
   margin-bottom: 1rem;
 }
 .about-me__collaboration_icon {
+  padding: 0 0.5rem;
   background-color: #feb272;
   border-radius: 5px;
   box-shadow: 0 4px 3px rgba(0, 0, 0, 0.1);
